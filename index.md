@@ -10,6 +10,10 @@ permalink: /
 
 {{ site.themes.educational }}
 
+{% for game in site.games %}
+{{ game.name }}
+{% endfor %}
+
 ## Creators
 
 | Name | Main Game | Main Theme |
