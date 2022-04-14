@@ -1,0 +1,18 @@
+---
+---
+
+div.menu-small{
+	display:block;
+}
+div.menu-big{
+	display:none;
+}
+
+@media(min-width: 567px){
+	div.menu-small{
+		display:none;
+	}
+	div.menu-big{
+		display:block;
+	}
+}
