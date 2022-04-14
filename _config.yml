@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  license:
+    name: GPLv3
+  source:
+    branch: "gh-pages"
+    path: "/"
+  repository_url: "https://github.com/slaytostay/gamemech-content"
+
+repository: slaytostay/slaytostay.github.io
+
+title: Bug Abuse Library
+description: An archive of content creators using non-standard game mechanics
+
+include: [_data, assets]
+exclude: [README.md, LICENSE]
