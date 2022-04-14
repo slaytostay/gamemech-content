@@ -1,3 +1,9 @@
+---
+title: "Creators"
+layout: public
+permalink: /
+---
+
 ## Content Creators
 
 | Name | Main Game | Main Theme |
