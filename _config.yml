@@ -24,3 +24,12 @@ collections:
   creators:
     output: true
     permalink: /creators/:path/
+    layout: creator
+  games:
+    output: true
+    permalink: /games/:path/
+    layout: public
+  themes:
+    output: true
+    permalink: /themes/:path/
+    layout: public
