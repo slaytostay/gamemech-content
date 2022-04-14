@@ -12,3 +12,4 @@ permalink: /
 | --- | --- | --- |
 {% for creator in site.creators %}
 | [{{ creator.name }}]({{ creator.channel }}) | {{ creator.game }} | {{ creator.theme }} |
+{% endfor %}
