@@ -1,7 +1,8 @@
 ---
 name: Matt's Ramblings
 channel: https://www.youtube.com/c/MattsRamblings
-game: {{ site.games.quake }}
+games: 
+  - {{ site.games.quake.name }}
 themes:
-  - {{ site.themes.educational }}
+  - {{ site.themes.educational.name }}
 ---
