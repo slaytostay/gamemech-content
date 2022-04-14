@@ -4,6 +4,8 @@ layout: public
 permalink: /
 ---
 
+{{ site.description }}
+
 ## Creators
 
 | Name | Main Game | Main Theme |
