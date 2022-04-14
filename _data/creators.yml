@@ -284,3 +284,12 @@ greatblue:
     - "Team Fortress 2"
   themes:
     - Limits
+    
+limitbreakers:
+  name: Limit Breakers
+  channel: https://www.youtube.com/c/LimitBreakers
+  games:
+    - Souls Games
+  themes:
+    - Limits
+    - Educational
