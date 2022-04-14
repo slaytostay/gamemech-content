@@ -4,7 +4,7 @@ layout: public
 permalink: /
 ---
 
-## Content Creators
+## Creators
 
 | Name | Main Game | Main Theme |
 | Rendi | OSRS | Showcase |
