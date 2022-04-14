@@ -6,13 +6,7 @@ permalink: /
 
 {{ site.description }}
 
-{{ site.games.quake.name }}
-
-{{ site.themes.educational }}
-
-{% for game in site.games %}
-{{ game.name }}
-{% endfor %}
+{{ site.games[quake].name }}
 
 ## Creators
 
