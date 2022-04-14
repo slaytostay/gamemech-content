@@ -1,10 +1,286 @@
 rendi:
   name: Rendi
   channel: https://www.youtube.com/rawktopink
-  game: OSRS
-  theme: Showcase
+  games: 
+    - Oldschool RuneScape
+  themes:
+    - Restrictions
+
 mattsramblings:
   name: Matt's Ramblings
   channel: https://www.youtube.com/c/MattsRamblings
-  game: Quake
-  theme: Educational
+  games:
+    - Quake
+  themes:
+    - Educational
+
+bismuth:
+  name: Bismuth
+  channel: https://www.youtube.com/c/Bismuth9
+  games:
+    - Nintendo
+  themes:
+    - Educational
+    - Speedrunning
+
+shounic:
+  name: shounic
+  channel: https://www.youtube.com/c/shounic
+  games:
+    - "Team Fortress 2"
+  themes:
+    - Educational
+
+matthewbolan:
+  name: Matthew Bolan
+  channel: https://www.youtube.com/channel/UCB4XuRBJZBOpnoJSWekMohw
+  games:
+    - Minecraft
+  themes:
+    - Educational
+    - Speedrunning
+
+desic:
+  name: DeSinc
+  channel: https://www.youtube.com/c/DeSinc
+  games:
+    - Half-Life
+    - "Counter-Strike: Source"
+  themes:
+    - Entertainment
+
+wirtual:
+  name: Wirtual
+  channel: https://www.youtube.com/c/Wirtual
+  games:
+    - Trackmania
+  themes:
+    - Analysis
+    - Speedrunning
+
+gudi:
+  name: Gudi
+  channel: https://www.youtube.com/channel/UCLhd543pnFEsZsCrKR4Epfw
+  games:
+    - Oldschool RuneScape
+  themes:
+    - Limits
+    - Restrictions
+
+xzact:
+  name: xzact
+  channel: https://www.youtube.com/channel/UCyp6tX6qnApp85pc933RpMg
+  games:
+    - Oldschool RuneScape
+  themes:
+    - Restrictions
+    - Limits
+
+innocentrabbit:
+  name: innocentrabbit
+  channel: https://www.youtube.com/c/innocentrabbit
+  games:
+    - Smite
+  themes:
+    - Limits
+    - Restrictions
+
+3kliksphilip:
+  name: 3kliksphilip
+  channel: https://www.youtube.com/user/3kliksphilip
+  games:
+    - "Counter-Strike: Global Offensive"
+  themes:
+    - Limits
+    - Educational
+
+karljobst:
+  name: Karl Jobst
+  channel: https://www.youtube.com/c/karljobst
+  games:
+    - "GoldenEye 007"
+    - Variety
+  themes:
+    - Limits
+    - Educational
+
+pikaspreyyellow:
+  name: Pikasprey Yellow
+  channel: https://www.youtube.com/user/Pikasprey
+  games:
+    - Pokemon
+  themes:
+    - Restrictions
+
+jrose11:
+  name: Jrose11
+  channel: https://www.youtube.com/c/Jrose11
+  games:
+    - Pokemon
+  themes:
+    - Restrictions
+
+goosesgamerfolklore:
+  name: Goose's Gamer Folklore
+  channel: https://www.youtube.com/c/GoosesGamerFolklore
+  games:
+    - Variety
+  themes:
+    - Analysis
+    - Speedrunning
+
+abyssoft:
+  name: Abyssoft
+  channel: https://www.youtube.com/c/Abyssoft
+  games:
+    - Variety
+  themes:
+    - Analysis
+    - Speedrunning
+
+summoningsalt:
+  name: Summoning Salt
+  channel: https://www.youtube.com/c/SummoningSalt
+  games:
+    - Variety
+  themes:
+    - Analysis
+    - Speedrunning
+
+decino:
+  name: decino
+  channel: https://www.youtube.com/c/decino
+  games:
+    - DOOM
+  themes:
+    - Educational
+
+k4yfour:
+  name: k4yfour
+  channel: https://www.youtube.com/c/k4yfour
+  games:
+    - Minecraft
+  themes:
+    - Analysis
+    - Speedrunning
+
+ymfah:
+  name: ymfah
+  channel: https://www.youtube.com/c/ymfah
+  games:
+    - Souls Games
+    - Skyrim
+    - Fallout
+  themes:
+    - Restrictions
+    - Entertainment
+
+mittensquad:
+  name: Mitten Squad
+  channel: https://www.youtube.com/c/MittenSquad
+  games:
+    - Fallout
+    - Skyrim
+  themes:
+    - Restrictions
+
+maximum:
+  name: Maximum
+  channel: https://www.youtube.com/c/Maximum
+  games:
+    - Red Ball
+    - Flash Games
+  themes:
+    - Analysis
+    - Speedrunning
+    - Educational
+
+daravae:
+  name: Daravae
+  channel: https://www.youtube.com/c/Daravae
+  games:
+    - Elden Ring
+    - Variety
+  themes:
+    - Analysis
+    - Speedrunning
+    - Educational
+
+superclass:
+  name: Superclass
+  channel: https://www.youtube.com/c/SuperclassYT
+  games:
+    - Tetris
+  themes:
+    - Educational
+
+sethbling:
+  name: SethBling
+  channel: https://www.youtube.com/c/MinecraftSethBling
+  games:
+    - Super Mario World
+  themes:
+    - Educational
+
+raysworks:
+  name: Rays Works
+  channel: https://www.youtube.com/c/RaysWorks
+  games:
+    - Minecraft
+  themes:
+    - Limits
+    - Educational
+
+jokeypokey:
+  name: Jokeypokey
+  channel: https://www.youtube.com/channel/UCMVcXc4UykffXNSKqJEdCwA
+  games:
+    - Minecraft
+    - Fatorio
+  themes:
+    - Restrictions
+
+acezephyr:
+  name: AceZephyr
+  channel: https://www.youtube.com/c/AceZephyr1
+  games:
+    - Final Fantasy VII
+    - Ocarino of Time
+  themes:
+    - Educational
+    - Speedrunning
+
+modernvintagegamer:
+  name: Modern Vintage Gamer
+  channel: https://www.youtube.com/c/ModernVintageGamer
+  games:
+    - Variety
+  themes:
+    - Educational
+
+obscurevideogameruns:
+  name: Obscure Video Game Runs
+  channel: https://www.youtube.com/channel/UC7di705BIvcKl3U-WXDvgDg
+  games:
+    - Ratchet and Clank
+    - "Rayman 3"
+    - Red Dead Redemption
+    - Pokemon
+  themes:
+    - Restrictions
+
+ngplus:
+  name: NGPlus
+  channel: https://www.youtube.com/c/NGPlusVideos
+  games:
+    - Variety
+  themes:
+    - Restrictions
+
+greatblue:
+  name: Great Blue
+  channel: https://www.youtube.com/c/GreatBlueHeron
+  games:
+    - "Team Fortress 2"
+  themes:
+    - Limits

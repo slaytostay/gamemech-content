@@ -6,8 +6,12 @@ permalink: /
 
 {{ site.description }}
 
+{% assign crtr = site.data.creators["rendi"] %}
+{{ crtr.name }}
+
 ## Creators
 
-{% for creator in site.data.creators %}
-{{ creator.name }}
+| Creator | Main Game | Main Theme |
+| --- | --- | --- |
+{% for creator_hash in site.data.creators %}{% assign creator = creator_hash[1] %}| [{{ creator.name }}]({{ creator.channel }}) | {{ creator.games | first }} | {{ creator.themes | first }} |
 {% endfor %}
