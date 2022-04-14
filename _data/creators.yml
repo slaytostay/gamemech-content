@@ -1,5 +1,10 @@
 rendi:
   name: Rendi
   channel: https://www.youtube.com/rawktopink
-  game: {{ site.title }}
+  game: OSRS
   theme: Showcase
+mattsramblings:
+  name: Matt's Ramblings
+  channel: https://www.youtube.com/c/MattsRamblings
+  game: Quake
+  theme: Educational
