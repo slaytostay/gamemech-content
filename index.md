@@ -6,7 +6,8 @@ permalink: /
 
 {{ site.description }}
 
-{{ site.data.creats[rendi].name }}
+{% assign crtr = site.data.creators[rendi] %}
+{{ crtr.name }}
 
 ## Creators
 
