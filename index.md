@@ -6,9 +6,6 @@ permalink: /
 
 {{ site.description }}
 
-{% assign crtr = site.data.creators["rendi"] %}
-{{ crtr.name }}
-
 ## Creators
 
 | Creator | Main Game | Main Theme |
