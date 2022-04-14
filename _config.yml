@@ -19,3 +19,7 @@ description: An archive of content creators using non-standard game mechanics
 
 include: [_data, assets]
 exclude: [README.md, LICENSE]
+
+collections:
+  creators:
+    output: true
