@@ -6,6 +6,8 @@ permalink: /
 
 {{ site.description }}
 
+{{ site.data.creats[rendi].name }}
+
 ## Creators
 
 | Name | Main Game | Main Theme |
