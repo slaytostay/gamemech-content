@@ -1,0 +1,5 @@
+rendi:
+  name: Rendi
+  channel: https://www.youtube.com/rawktopink
+  game: {{ site.title }}
+  theme: Showcase
