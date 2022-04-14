@@ -6,7 +6,7 @@ permalink: /
 
 {{ site.description }}
 
-{{ site.games.quake }}
+{{ site.games.quake.name }}
 
 {{ site.themes.educational }}
 
