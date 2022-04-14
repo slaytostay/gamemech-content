@@ -10,4 +10,5 @@ permalink: /
 
 | Name | Main Game | Main Theme |
 | --- | --- | --- |
-{% for creator in site.creators %}| [{{ creator.name }}]({{ creator.channel }}) | {{ creator.game }} | {{ creator.theme }} |{% endfor %}
+{% for creator in site.creators %}| [{{ creator.name }}]({{ creator.channel }}) | {{ creator.game.name }} | {{ creator.themes[0].name }} |
+{% endfor %}
