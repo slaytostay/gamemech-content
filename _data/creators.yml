@@ -301,4 +301,15 @@ illusorywall:
     - Souls Games
   themes:
     - Educational
+
+tharixer:
+  name: ThaRixer
+  channel: https://www.youtube.com/user/ThaRixer
+  games:
+    - Ratchet and Clank
+    - Variety
+  themes:
+    - Analysis
+    - Speedrunning
+    - Educational
     
