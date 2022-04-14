@@ -6,6 +6,10 @@ permalink: /
 
 {{ site.description }}
 
+{{ site.games.quake }}
+
+{{ site.themes.educational }}
+
 ## Creators
 
 | Name | Main Game | Main Theme |
