@@ -293,3 +293,12 @@ limitbreakers:
   themes:
     - Limits
     - Educational
+
+illusorywall:
+  name: illusory wall
+  channel: https://www.youtube.com/channel/UCmBXkjKD8w6bbjUzNjcDtQA
+  games:
+    - Souls Games
+  themes:
+    - Educational
+    
