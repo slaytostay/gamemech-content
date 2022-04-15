@@ -322,3 +322,22 @@ ironpineapple:
     - Restrictions
     - Limits
     - Educational
+
+rextroy:
+  name: Rextroy
+  channel: https://www.youtube.com/c/rextroy3
+  games:
+    - World of Warcraft
+  themes:
+    - Limits
+    - Educational
+
+brutalmagllinitime:
+  name: Brutal Magllini Time
+  channel: https://www.youtube.com/c/BrutalMaglliniTime
+  games:
+    - Smite
+  themes:
+    - Entertainment
+    - Limits
+  
