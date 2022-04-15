@@ -341,3 +341,10 @@ brutalmagllinitime:
     - Entertainment
     - Limits
   
+techrules:
+  name: Tech Rules
+  channel: https://www.youtube.com/c/TechRules
+  games:
+    - Variety
+  themes:
+    - Educational
