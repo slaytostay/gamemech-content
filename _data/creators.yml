@@ -350,3 +350,11 @@ techrules:
     - Variety
   themes:
     - Educational
+
+bobwon:
+  name: bobwon
+  channel: https://www.youtube.com/channel/UCCBuqBEa2JKP5plxI6yWBpA
+  games:
+    - Super Auto Pets
+  themes:
+    - Limits
